@@ -21,7 +21,7 @@ style: |
 
 - Introducción al problema
 - Planteamiento DSL
-- XPath ($\chi\rho\alpha\tau\eta$)
+- XPath 
 - Solución de Integración
 - Ejemplos de mensajes
 
@@ -41,7 +41,7 @@ style: |
 
 ---
 
-## XPath ($\chi\rho\alpha\tau\eta$)
+## XPath 
 
 Estructura de datos XML base para las consultas:
 
@@ -63,7 +63,7 @@ Estructura de datos XML base para las consultas:
 
 ---
 
-## XPath ($\chi\rho\alpha\tau\eta$) - Consultas
+## XPath  - Consultas
 
 - Selección de nodos clave en el documento XML:
   - `//user | //direccion | //fecha | //consumo`
